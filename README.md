@@ -1,30 +1,30 @@
-# Prima1
+# Prima 1
 
-**Direct-Drive Transparency, Intelligent Sensing Without Boundaries.**
+**Direct-Drive Transparency, Perceptive Infinity.**
 
-Xynova Prima 1 灵巧手 — 直驱灵巧手 · 直驱透明 · 高保真力感知。
+## Technical Documentation
 
-## 📖 技术文档
+**Go to the Documentation Center: <https://docs.xynova.com.cn/>**
 
-**→ 前往文档中心：<https://docs.xynova.com.cn/>**
+## Downloads
 
+All software is available on the [**Releases**](https://github.com/xynova-tech/Prima1/releases) page and archived by release and version:
 
-## 📦 下载发布物
-
-所有软件均发布在 [**Releases**](https://github.com/xynova-tech/Prima1/releases) 页面，按发布物分版本归档：
-
-| 发布物                                                                          | 版本     | 说明                |
+| Release                                                                          | Version     | Description                |
 | ---------------------------------------------------------------------------- | ------ | ----------------- |
-| [URDF 模型](https://github.com/xynova-tech/Prima1/releases/tag/URDF-V1.0.0)    | v1.0.0 | Prima 1 URDF 模型文件 |
-| [Prima 1 SDK](https://github.com/xynova-tech/Prima1/releases/tag/SDK-V2.1.0) | v2.1.0 | 二次开发 SDK          |
+| [Prima 1 Studio](https://github.com/xynova-tech/Prima1/releases/tag/Studio-V1.0.0) | V 1.0.0 | Prima 1 Studio |
+| [Prima 1 SDK](https://github.com/xynova-tech/Prima1/releases/tag/SDK-V2.1.0) | V 2.1.0 | SDK for custom development          |
+| [Simulation Assets (URDF)](https://github.com/xynova-tech/Prima1/releases/tag/URDF-V1.0.0) | V 1.0.0 | Simulation assets, including URDF models |
 
-## 🚀 快速上手
+## Quick Start
 
-- **仿真**：下载 URDF / 仿真资产，导入 MuJoCo / Isaac Sim
-- **SDK**：下载 Prima 1 SDK，解压后按接口示例进行二次开发
+- **Prima 1 Studio**: Install Prima 1 Studio, then connect to and use Prima 1
+- **Prima 1 SDK**: Extract the software package and follow the manual
 
+## Contact Us
 
-## 📬 联系我们
+<img src="./assets/icon-website-light.svg" width="24" height="24" alt=""> **Website**: [www.xynova.com.cn](https://www.xynova.com.cn/)
 
-- 🌐 官网：[www.xynova.com.cn](https://www.xynova.com.cn/)
-- ✉️ 技术支持：[contact-us@xynova.tech](mailto:contact-us@xynova.tech)
+<img src="./assets/icon-docs-light.svg" width="24" height="24" alt=""> **Documentation**: [docs.xynova.com.cn](https://docs.xynova.com.cn/)
+
+<img src="./assets/icon-contact-light.svg" width="24" height="24" alt=""> **Technical Support**: [contact-us@xynova.tech](mailto:contact-us@xynova.tech)
