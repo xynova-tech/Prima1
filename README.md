@@ -14,6 +14,7 @@ All software is available on the [**Releases**](https://github.com/xynova-tech/P
 | ---------------------------------------------------------------------------- | ------ | ----------------- |
 | [Prima 1 Studio](https://github.com/xynova-tech/Prima1/releases/tag/Studio-V1.0.0) | V 1.0.0 | Prima 1 Studio |
 | [Prima 1 SDK](https://github.com/xynova-tech/Prima1/releases/tag/SDK-V2.1.0) | V 2.1.0 | SDK for custom development          |
+| [Prima 1 VBTS SDK](https://github.com/xynova-tech/Prima1/releases/tag/VBTS-SDK-V1.0.0(C%2B%2B)) | V 1.0.0 | VBTS SDK for custom development          |
 | [Simulation Assets (URDF)](https://github.com/xynova-tech/Prima1/releases/tag/URDF) | V 1.0.1 | Simulation assets, including URDF models |
 
 ## Quick Start
